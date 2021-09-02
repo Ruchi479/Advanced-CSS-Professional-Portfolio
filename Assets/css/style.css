@@ -61,7 +61,7 @@ header .navbar .menu li a:hover{
     position:absolute;
     top:0;
     right:0;
-    background: url("image.jpg") no-repeat center;
+    background: url("../Images/image.jpg") no-repeat center;
     background-size: cover;
     height:900px;
     width:100%;

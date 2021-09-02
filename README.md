@@ -21,6 +21,7 @@ Brief Discription about Homework
 9. I made the portfolio with responsive layouts.
 
 The URL of the GitHub repository: https://github.com/Ruchi479/Advanced-CSS-Professional-Portfolio.git
+The URL of the deployed application: https://ruchi479.github.io/Advanced-CSS-Professional-Portfolio/
 
 
 
