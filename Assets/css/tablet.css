@@ -25,6 +25,10 @@
         padding: 10px;
     }
 
+    #intro {
+        margin-left: 25px;
+    }
+
     /*work*/
     #work .linked .project img{
         width:500px;
