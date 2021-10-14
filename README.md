@@ -23,7 +23,7 @@ Brief Discription about Homework
 # This work is an updated portfolio from week 2.
 # Completed Tasks:
 
-* I updated MY portfolio featuring my first Project(Flight Finder) and three homework assignments.
+* I updated my portfolio featuring my first Project(Flight Finder) and three homework assignments.
 
 * I updated GitHub profile with pinned repositories featuring Project(Flight Finder) and three homework assignments.
 
