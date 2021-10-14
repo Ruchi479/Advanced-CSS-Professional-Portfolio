@@ -20,6 +20,27 @@ Brief Discription about Homework
 
 9. I made the portfolio with responsive layouts.
 
+# This work is an updated portfolio from week 2.
+# Completed Tasks:
+
+* I updated MY portfolio featuring my first Project(Flight Finder) and three homework assignments.
+
+* I updated GitHub profile with pinned repositories featuring Project(Flight Finder) and three homework assignments.
+
+* I updated and added link to my downloadable PDF of my resume in my portfolio.
+
+* I updated my LinkedIn profileI
+
+* I added links to my linkedin and github profiles in my portfolio.
+
+* I added mt email id in portfolio.
+
+* I made the portfolio as a mobile-responsive user interface 
+
+
+# Screenshots
+![Personal Portfolio](./Assets/Images/SS.png)
+
 The URL of the GitHub repository: https://github.com/Ruchi479/Advanced-CSS-Professional-Portfolio.git
 The URL of the deployed application: https://ruchi479.github.io/Advanced-CSS-Professional-Portfolio/
 
