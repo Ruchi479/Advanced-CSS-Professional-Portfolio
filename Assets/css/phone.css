@@ -14,10 +14,19 @@
         font-size: 1.5rem;
     }
     #intro p{
-        width:300px;
-        /* text-align: center; */
-        line-height: 1;
-        font-size: 1.3rem;
+        /* width:300px; */
+        margin-right: -25px;
+        line-height: 1.2;
+        font-size: 1.2rem;
+    }
+    #intro{
+        display: flex;
+        flex-direction: column;
+        text-align: justify;
+        padding: 10px;
+        width:80%;
+        max-width: 100%;
+        /* margin-left:35px; */
     }
 
      /*work*/

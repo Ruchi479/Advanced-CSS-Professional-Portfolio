@@ -1,7 +1,7 @@
 
 
 /* section*/
-@media screen and (max-width: 800px){
+@media screen and (max-width: 850px){
     /*navbar*/
     .navbar ul{
         flex-wrap: wrap;
@@ -24,9 +24,20 @@
         text-align: center;
         padding: 10px;
     }
-
-    #intro {
-        margin-left: 25px;
+    #intro p{
+        /* width:400px; */
+        margin-right: -25px;
+        line-height: 1.2;
+        font-size: 1.5rem;
+    }
+    #intro{
+        display: flex;
+        flex-direction: column;
+        text-align: justify;
+        padding: 10px;
+        width:80%;
+        max-width: 100%;
+        /* margin-left:35px; */
     }
 
     /*work*/
@@ -58,4 +69,24 @@
     }
 }
 
+@media screen and (max-width: 1200px){
+    #intro p{
+        /* width:400px; */
+        line-height: 1.2;
+        font-size: 1.2rem;
+    }
+    #intro h2{
+        text-align: center;
+        font-size: 2rem;
+    }
+    #intro{
+        display: flex;
+        flex-direction: column;
+        text-align: justify;
+        /* padding: 10px; */
+        width:55%;
+        max-width: 100%;
+        /* margin-left:35px; */
+    }
+}
 

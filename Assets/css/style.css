@@ -155,9 +155,9 @@ header .navbar .menu li a:hover{
 
 }
 
-#pic p{
+/* #pic p{
     width:90%;
-}
+} */
 
 
 #intro{
@@ -172,6 +172,7 @@ header .navbar .menu li a:hover{
 #intro h2{
     font-size: 3.5rem;
     margin-bottom: 20px;
+    text-shadow: 2px 2px 5px green;
 }
 
 #intro p{
