@@ -42,6 +42,7 @@ Brief Discription about Homework
 ![Personal Portfolio](./Assets/Images/pp.png)
 
 The URL of the GitHub repository: https://github.com/Ruchi479/Portfolio.git
+<br>
 The URL of the deployed application: https://ruchi479.github.io/Portfolio/
 
 
