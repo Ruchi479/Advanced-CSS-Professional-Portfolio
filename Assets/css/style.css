@@ -159,6 +159,7 @@ header .navbar .menu li a:hover{
     width:90%;
 }
 
+
 #intro{
     display: flex;
     flex-direction: column;
@@ -169,8 +170,13 @@ header .navbar .menu li a:hover{
 }
 
 #intro h2{
-    font-size: 2rem;
+    font-size: 3.5rem;
     margin-bottom: 20px;
+}
+
+#intro p{
+    line-height: 1.5;
+    font-size: 1.3rem;
 }
 
 /*Work section*/
@@ -182,7 +188,7 @@ header .navbar .menu li a:hover{
     align-items: center;
     padding: 20px;
 }
-.gallery{
+.gallery, .linked{
     display:flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -197,10 +203,11 @@ header .navbar .menu li a:hover{
 }
 
 #work .linked .project img{
-    padding:20px;
-    width:850px;
-    height:500px;
-    margin-bottom: 25px;
+    padding:12px;
+    width:570px;
+    /* max-width: 100%; */
+    height:400px;
+    margin: 15px;
 }
 
 #work .linked .project img:hover{
@@ -209,7 +216,7 @@ header .navbar .menu li a:hover{
     box-shadow: 0 25px 40px whitesmoke;
 }
 
-.gallery{
+.gallery, .linked{
     position: relative;
 }
 .gallery .project img{

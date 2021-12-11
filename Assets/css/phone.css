@@ -7,11 +7,17 @@
     }
     /*About*/
     #pic img{
-        width:300px;
+        width:350px;
         height:175px;
     }
     #intro h2{
         font-size: 1.5rem;
+    }
+    #intro p{
+        width:300px;
+        /* text-align: center; */
+        line-height: 1;
+        font-size: 1.3rem;
     }
 
      /*work*/
