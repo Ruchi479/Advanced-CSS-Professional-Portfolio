@@ -39,10 +39,10 @@ Brief Discription about Homework
 
 
 # Screenshots
-![Personal Portfolio](./Assets/Images/SS.png)
+![Personal Portfolio](./Assets/Images/pp.png)
 
-The URL of the GitHub repository: https://github.com/Ruchi479/Advanced-CSS-Professional-Portfolio.git
-The URL of the deployed application: https://ruchi479.github.io/Advanced-CSS-Professional-Portfolio/
+The URL of the GitHub repository: https://github.com/Ruchi479/Portfolio.git
+The URL of the deployed application: https://ruchi479.github.io/Portfolio/
 
 
 
